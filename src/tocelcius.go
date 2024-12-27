@@ -22,10 +22,6 @@ import (
 // 	return number, nil
 // }
 
-/*************  ✨ Codeium Command ⭐  *************/
-// main prompts the user to enter a temperature in Fahrenheit, converts it to Celsius,
-// and prints the result.
-/******  fea83a16-701a-4d0b-9fb4-d4143ff873e7  *******/
 func main() {
 
 	fmt.Print("Enter a temperature in Fahrenheit: ")
